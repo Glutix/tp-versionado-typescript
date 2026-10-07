@@ -9,7 +9,7 @@ const tareas: Tarea[] = [
   { id: 3, descripcion: "Practicar TypeScript" }
 ];
 
-console.log("=== LISTA DE TAREAS ===");
+console.log("=== GESTOR DE TAREAS ===");
 
 for (const tarea of tareas) {
   console.log(`${tarea.id}. ${tarea.descripcion}`);
