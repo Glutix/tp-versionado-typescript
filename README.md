@@ -1,6 +1,6 @@
 # TP Gestión de Versionado del Software
 
-Proyecto individual correspondiente al TP4 de Gestión de Versionado del Software.
+Proyecto individual correspondiente al Trabajo Práctico Nº4 --- Gestión de Versionado del Software.
 
 ## Descripción
 
